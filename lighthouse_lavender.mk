@@ -20,6 +20,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 
 # Lighthouse Stuffs
 WITH_GAPPS := true
+LIGHTHOUSE_BUILD_TYPE := OFFICIAL
 
 # Device identifier
 PRODUCT_NAME := lighthouse_lavender
